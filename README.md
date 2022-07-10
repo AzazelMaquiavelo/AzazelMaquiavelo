@@ -1,13 +1,23 @@
-# Dani Bosna :milky_way:	
-Con una pasion inagotable por la industria Tech, busco llevar soluciones a ambitos sociales que acarrean con sistemas deficientes.
-  Como **Desarrollador Web** busco implementar tecnologias que permitan dar respuestas oportunas y eficientes a cualquier mal que pueda padecer nuestra sociedad.
-  
-Me apasiona el **Open Source** y trabajar con Equipos que expandan nuestra cultura global, porque no hay mayor alegría en lo que hago que ayudar a triunfar a las personas que sueñan en grande, como yo.  Me gusta forjar relaciones sólidas con mis clientes y colaboradores, que luego se convierten en socios, que luego se hacen amigos.
+# Dani Bosna :milky_way:
+With a inagotable passion for the Tech Industry, i'm looking for carry solutions to social spheres that entail with poor systems. As a **Full Stack Developer** I implement technologies that allow give timely and efficient answer to any discomfort may suffer our society.
 
-## Mi Especialidad :rocket:		
+I’m a passionate for the **Open Source** and work with teams improve our global culture. I like to forge solid relationships with my clients and collaborators, who then become partners, who then become friends, because there is no greater joy in what I do than helping people who dream big like me succeed.
+
+## My Specialties :rocket:
 
 * *Front-end develop.*
+* *Back-end develop.*
+* *Smart Contracts*
 
-## Mis Habilidades Tecnicas :man_technologist:
+## My Abilities :man_technologist:
 
-* *Coding: Javascript*
+* **Coding:**
+*NextJs*
+*ReactJs*
+*NodeJs*
+*Express*
+*Mongodb*
+*SQL, NoSQL*
+*Javascript*
+*Solidity*
+
