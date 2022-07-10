@@ -12,12 +12,12 @@ I’m a passionate for the **Open Source** and work with teams improve our globa
 ## My Abilities :man_technologist:
 
 * **Coding:**
-*NextJs*
-*ReactJs*
-*NodeJs*
-*Express*
-*Mongodb*
-*SQL, NoSQL*
-*Javascript*
-*Solidity*
+*NextJs,*
+*ReactJs,*
+*NodeJs,*
+*Express,*
+*Mongodb,*
+*SQL, NoSQL,*
+*Javascript,*
+*Solidity,*
 
