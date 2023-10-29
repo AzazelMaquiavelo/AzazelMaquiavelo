@@ -3,21 +3,34 @@ With a inagotable passion for the Tech Industry, i'm looking for carry solutions
 
 I’m a passionate for the **Open Source** and work with teams improve our global culture. I like to forge solid relationships with my clients and collaborators, who then become partners, who then become friends, because there is no greater joy in what I do than helping people who dream big like me succeed.
 
-## My Specialties :rocket:
+## Full-Stack & Ethereum Dev. :rocket:
 
-* *Front-end develop.*
-* *Back-end develop.*
+* *Front-end development.*
+* *Back-end development.*
 * *Smart Contracts*
+* *Server Management*
 
-## My Abilities :man_technologist:
+## My Tech Stack :man_technologist:
 
-* **Coding:**
-*NextJs,*
-*ReactJs,*
-*NodeJs,*
-*Express,*
-*Mongodb,*
-*SQL, NoSQL,*
-*Javascript,*
-*Solidity,*
+* **Development Technologies:**
+*SOLIDITY,*
+*HARDHAT,*
+*NEXTJS,*
+*THREEJS,*
+*TAILWIND,*
+*TYPESCRIPT*
+* **Infrastructure Technologies:**
+*DOCKER,*
+*CLI - LINUX,*
+*GOOGLE CLOUD*
+* **Data Management:**
+*POSTGRESQL,*
+*MySQL,*
+*MONGOBD*
 
+## Expressions of Gratitude 🎁
+
+* Tell others about these projects 📢
+* Buy me a beer 🍺 or a coffee ☕
+* Eternally grateful to those who supported me along the way 🤓.
+* etc.
